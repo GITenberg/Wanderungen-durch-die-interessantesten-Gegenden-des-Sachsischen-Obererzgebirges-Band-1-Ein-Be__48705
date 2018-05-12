@@ -1,4 +1,8 @@
 _repo: Wanderungen-durch-die-interessantesten-Gegenden-des-Sachsischen-Obererzgebirges-Band-1-Ein-Be__48705
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48705-h/images/cover.jpg
 creator:
   author:
     agent_name: Lindner, Johann Traugott
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44935
     wikipedia: http://de.wikipedia.org/wiki/Johann_Traugott_Lindner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48705#Wanderungen-durch-die-interessantesten-Gegenden-des-Sachsischen-Obererzgebirges-Band-1-Ein-Be_
 gutenberg_issued: '2015-04-14'
 gutenberg_type: Text
 identifiers:
